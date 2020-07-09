@@ -9,7 +9,7 @@ The benchmark I have set for myself was to make the user experience of my Chess 
 ### Sample Game
 <p align="center"> <img src="https://github.com/frederickpek/frederickcodes/blob/master/Chess%20-%20with%20cpu%20player/gifs/Checkmate!.gif" width=400/> </p> 
 <p align='center'> <sub>Figure 1: Checkmate by White. </p>
-This example game has the cpu making random moves in order for me to make a quick Checkmate and demonstrate the additional flairs and logic i have built into the engine - the highlighting of legal moves, castling, checkmate recognition etc.
+This example game has the cpu making random moves in order for me to make a quick Checkmate and demonstrate the additional flairs and logic i have built into the engine - the highlighting of legal moves, highlighting the most recent move, castling, checkmate recognition etc.
 
 ### Pawn Promotion Interface
 <p align="center"> <img src="https://github.com/frederickpek/frederickcodes/blob/master/Chess%20-%20with%20cpu%20player/gifs/Pawn%20Promotion%20Interface.gif" width=400/> </p> 
