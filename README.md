@@ -5,7 +5,7 @@ I like to interact with my code with visuals and graphics. Hence, the projects i
 
 <table>
   <tr>
-    <td align="middle" width="300">Marching Squares & OpenSimplex Noise</td>
+    <td align="middle" width="300">Marching Squares Algorithm & OpenSimplex Noise</td>
      <td align="middle" width="300">Conway's Game of Life</td>
      <td align="middle" width="300">Chess - Player vs CPU</td>
   </tr>
